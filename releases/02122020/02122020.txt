@@ -1,2 +1,0 @@
-Đã upload file lên hệ thống.
-Recognizers-Text version 0.1
